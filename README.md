@@ -1,5 +1,6 @@
 ### Hola! Este es mi Readme 👋😄
 
+🌱 Actualmente soy estudiante del Máster de Formación del Profesorado en la especialidad de Tecnología
 <!--
 **BelHerGi/BelHerGi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
